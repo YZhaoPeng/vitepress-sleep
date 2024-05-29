@@ -1,0 +1,1 @@
+import{_ as p,c as t,o,a1 as r}from"./chunks/framework.biRBrEtS.js";const m=JSON.parse('{"title":"","description":"","frontmatter":{},"headers":[],"relativePath":"protocol.md","filePath":"protocol.md"}'),s={name:"protocol.md"},e=r("",34),n=[e];function a(_,c,g,i,l,d){return o(),t("div",null,n)}const f=p(s,[["render",a]]);export{m as __pageData,f as default};
