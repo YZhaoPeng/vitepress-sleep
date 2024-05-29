@@ -2,6 +2,7 @@ import { defineConfig } from 'vitepress'
 
 // https://vitepress.dev/reference/site-config
 export default defineConfig({
+  base: '/vitepress-sleep/',
   title: "早睡",
   description: "早睡健康生活",
     locales: {
