@@ -39,7 +39,7 @@ export default defineConfig({
             //页脚
     footer: { 
       message: 'Released under the MIT License.',
-      copyright: 'Copyright @ 2017~2024 , All Rights Reserved. <br><a href="https://beian.miit.gov.cn" target="_blank">桂ICP备19009028号-2</a><br><a href="https://beian.mps.gov.cn/#/query/webSearch?code=45092302000105" rel="noreferrer" target="_blank">桂公网安备45092302000105</a>' 
+      copyright: 'Copyright @ 2017~2024 , All Rights Reserved. ' 
     },
   },
 })
