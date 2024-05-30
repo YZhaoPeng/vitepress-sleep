@@ -11,7 +11,7 @@ hero:
       text: 下载方式一
       link: https://sj.qq.com/appdetail/com.jabin.sleep
     - theme: alt
-      text: 获取方式二
+      text: 下载方式二
       link: https://mobile.baidu.com/item?docid=5007039957
   image:
     src: http://sleepapp.cn/image.png
