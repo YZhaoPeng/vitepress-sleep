@@ -9,7 +9,7 @@ hero:
   actions:
     - theme: brand
       text: 下载方式一
-      link: /早睡.apk
+      link: http://sleepapp.top/早睡.apk
     - theme: alt
       text: 下载方式二
       link: https://mobile.baidu.com/item?docid=5007039957
