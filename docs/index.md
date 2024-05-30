@@ -8,7 +8,7 @@ hero:
   tagline: 回归自我，不做手机的奴隶
   actions:
     - theme: brand
-      text: 获取方式一
+      text: 下载方式一
       link: https://sj.qq.com/appdetail/com.jabin.sleep
     - theme: alt
       text: 获取方式二
