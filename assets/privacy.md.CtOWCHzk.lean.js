@@ -1,0 +1,1 @@
+import{_ as a,c as t,o as e,a1 as i}from"./chunks/framework.DCKU21so.js";const u=JSON.parse('{"title":"早睡隐私政策","description":"","frontmatter":{},"headers":[],"relativePath":"privacy.md","filePath":"privacy.md"}'),r={name:"privacy.md"},l=i("",17),d=[l];function o(h,n,c,p,s,_){return e(),t("div",null,d)}const m=a(r,[["render",o]]);export{u as __pageData,m as default};
