@@ -4,8 +4,8 @@ layout: home
 
 hero:
   name: "早睡"
-  text: "自律早睡健康生活"
-  tagline: 回归自我，不做手机的奴隶
+  text: "助您摆脱手机依赖提高专注力"
+  tagline: 我们懂你，想专注时总被手机分心，想早睡却忍不住再刷一会儿 ，于是我们打造了早睡APP，一款帮你戒掉手机瘾的自律工具，重建健康作息，找回生活掌控感
   actions:
     - theme: brand
       text: 下载方式一
